@@ -2111,6 +2111,7 @@ article {
 	text-transform:uppercase;
 	color:#fff;
 	font-size:12px;
+	letter-spacing: 2px;
 }
 .skill-name {
 	position:absolute;
@@ -2827,14 +2828,15 @@ footer.fixed-footer .footer-social li a:hover {
 }
 .creat-list li a  , .text-link{
 	float:left;
-	font-size: 10px;
+	font-size: 12px;
     font-family: 'Muli', sans-serif;
     line-height: 12px;
+	line-height: 20px;
     text-transform: uppercase;
     padding-left: 63px;
     position: relative;
-	font-weight:800;
-    letter-spacing: 2px;
+	font-weight:400;
+    letter-spacing: 1px;
     color: #292929;
 }
 .creat-list li a:before  , .text-link:before{
@@ -3867,5 +3869,8 @@ p {
 	background-attachment: scroll !important;
 	-webkit-background-size:cover;
 	background-position:center;
+}
+.googlemap{
+	width: 100%;
 }
 }
