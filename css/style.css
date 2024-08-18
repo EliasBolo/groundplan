@@ -2560,6 +2560,13 @@ footer.fixed-footer .footer-social li a:hover {
 	text-transform:uppercase;
 	letter-spacing:1px;
 }
+.copyright a {
+    color: #fff; /* Change this to your desired link color */
+    text-decoration: none; /* Optional: remove underline */
+}
+.copyright a:hover {
+    color: #818181; /* Change the hover color if desired */
+}
 .to-top {
 	float:right;
 	color:#fff;
