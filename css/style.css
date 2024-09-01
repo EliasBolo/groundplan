@@ -3881,4 +3881,18 @@ p {
 .googlemap{
 	width: 100%;
 }
+
+/*
+Single image centering css code
+*/
+
+
+.banner img {
+	width:100%;
+	height:auto;
+}
+
+
+
+
 }
